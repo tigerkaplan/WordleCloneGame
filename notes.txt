@@ -1,0 +1,52 @@
+
+--- Framework / Language / 
+    -- Vite
+    -- React
+    -- TypeScript
+    -- Tailwind CSS Style
+
+--- API 
+
+--- Why this Project ?
+
+--- Which Framework / Language shows which ability
+
+--- Desired features of this project
+
+--- Used features of this project
+
+--- Weakness features of this project
+
+--- Images
+
+--- Screenshots
+
+--- Color / typghrapy scheme of this project
+
+--- UX & UI features of this project
+
+--- Live apps of this project
+    -- https://wordleword.netlify.app/ 
+
+--- Github link of this project
+    -- https://github.com/tigerkaplan/WordleCloneGame 
+
+--- ReadMe file 
+
+--- Resources
+    -- Youtube
+    -- Udemy
+    -- ChatGPT
+
+--- Other Language Versions
+    -- C#
+    -- NextJS
+    -- Python
+
+
+
+
+
+
+
+
